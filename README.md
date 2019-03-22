@@ -1,3 +1,3 @@
 # catetime
 a food_order server
-# start python manager.py runserver
+# start python manage.py runserver
